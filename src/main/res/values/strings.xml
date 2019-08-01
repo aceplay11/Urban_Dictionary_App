@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UrbanDictionaryApp</string>
+    <string name="enter_word">Enter Word</string>
+    <string name="define">Define</string>
+</resources>
